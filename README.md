@@ -114,7 +114,7 @@ Objetivo Profissional
 
 Busco uma oportunidade como Desenvolvedor Back-end PHP/Laravel para continuar evoluindo profissionalmente, contribuir com minha experiência e crescer junto com a empresa.
 
-Mesmo possuindo experiência compatível com nível Pleno, também tenho disponibilidade para iniciar como Desenvolvedor Júnior caso necessário, pois meu foco principal é conquistar uma oportunidade em um ambiente com crescimento profissional, desafios e valorização.
+meu foco principal é conquistar uma oportunidade em um ambiente com crescimento profissional, desafios e valorização.
 
 Contato/Endereço
 
